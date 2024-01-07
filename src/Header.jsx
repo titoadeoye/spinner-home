@@ -8,7 +8,7 @@ export default function Header() {
       <div className="p-5 bg-blue-500 text-white text-3xl font-bold">
         <div className="flex">
           <div className="flex-grow flex">
-            <a to="/">Fidget Spinner World</a>
+            <a href="/">Fidget Spinner World</a>
             <div className="mx-5">|</div>
             <a id="cart" href="/cart">
               Cart

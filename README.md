@@ -1,5 +1,5 @@
 # Spinner app (home)
-This repository contains the sorce code for Spinner App.
+This repository contains the source code for Spinner App.
 
 The spinner app is an e-commerce app that sells spinners. It is built with a microservices architecture using Module Federation. This is the home micro application.
 
@@ -20,12 +20,6 @@ Users can:
 
 ## Stack
 - Frontend - _React.js_, _Tailwind_, _Module Federation_, _Webpack_
-
-## Hosted on
-- [Netlify](https://backendbuddy.netlify.app/)
-
-## Backend
-- [Github](https://github.com/ty-codes/backendbuddy-backend)
 
 ## Build Setup
 
